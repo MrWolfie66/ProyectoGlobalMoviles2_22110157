@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-mergeDebugResources-51:\\layout\\item_rv_carro_compras.xml",
+        "source": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-main-54:\\layout\\item_rv_carro_compras.xml"
+    },
+    {
+        "merged": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-mergeDebugResources-51:\\layout\\activity_main7.xml",
+        "source": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-main-54:\\layout\\activity_main7.xml"
+    },
+    {
+        "merged": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-mergeDebugResources-51:\\layout\\activity_main_activitycreacion.xml",
+        "source": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-main-54:\\layout\\activity_main_activitycreacion.xml"
+    },
+    {
+        "merged": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-mergeDebugResources-51:\\layout\\activity_main_activitytutoriales.xml",
+        "source": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-main-54:\\layout\\activity_main_activitytutoriales.xml"
+    },
+    {
+        "merged": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-mergeDebugResources-51:\\layout\\activity_main_activitybuscmod.xml",
+        "source": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-main-54:\\layout\\activity_main_activitybuscmod.xml"
+    },
+    {
+        "merged": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-mergeDebugResources-51:\\layout\\fragment_segundo.xml",
+        "source": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-main-54:\\layout\\fragment_segundo.xml"
+    },
+    {
+        "merged": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-mergeDebugResources-51:\\layout\\activity_main2.xml",
+        "source": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-main-54:\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-mergeDebugResources-51:\\layout\\activity_main5.xml",
+        "source": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-main-54:\\layout\\activity_main5.xml"
+    },
+    {
+        "merged": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-mergeDebugResources-51:\\layout\\item_articulo.xml",
+        "source": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-main-54:\\layout\\item_articulo.xml"
+    },
+    {
+        "merged": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-mergeDebugResources-51:\\layout\\activity_main_activitycamara.xml",
+        "source": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-main-54:\\layout\\activity_main_activitycamara.xml"
+    },
+    {
+        "merged": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-mergeDebugResources-51:\\layout\\item_dog.xml",
+        "source": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-main-54:\\layout\\item_dog.xml"
+    },
+    {
+        "merged": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-mergeDebugResources-51:\\layout\\activity_carro_compras.xml",
+        "source": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-main-54:\\layout\\activity_carro_compras.xml"
+    },
+    {
+        "merged": "com.example.proyectof1.app-mergeDebugResources-51:/layout/activity_main2.xml",
+        "source": "com.example.proyectof1.app-main-54:/layout/activity_main2.xml"
+    },
+    {
+        "merged": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-mergeDebugResources-51:\\layout\\fragment_tercer.xml",
+        "source": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-main-54:\\layout\\fragment_tercer.xml"
+    },
+    {
+        "merged": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-mergeDebugResources-51:\\layout\\activity_main_activitylocali.xml",
+        "source": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-main-54:\\layout\\activity_main_activitylocali.xml"
+    },
+    {
+        "merged": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-mergeDebugResources-51:\\layout\\activity_main6.xml",
+        "source": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-main-54:\\layout\\activity_main6.xml"
+    },
+    {
+        "merged": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-mergeDebugResources-51:\\layout\\activity_main3.xml",
+        "source": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-main-54:\\layout\\activity_main3.xml"
+    },
+    {
+        "merged": "com.example.proyectof1.app-mergeDebugResources-51:/layout/activity_main_activitytutoriales.xml",
+        "source": "com.example.proyectof1.app-main-54:/layout/activity_main_activitytutoriales.xml"
+    },
+    {
+        "merged": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-mergeDebugResources-51:\\layout\\fragment_primer.xml",
+        "source": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-main-54:\\layout\\fragment_primer.xml"
+    },
+    {
+        "merged": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-mergeDebugResources-51:\\layout\\item_rv_productos.xml",
+        "source": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-main-54:\\layout\\item_rv_productos.xml"
+    },
+    {
+        "merged": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-mergeDebugResources-51:\\layout\\card_layout.xml",
+        "source": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-main-54:\\layout\\card_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-mergeDebugResources-51:\\layout\\activity_main_registro.xml",
+        "source": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-main-54:\\layout\\activity_main_registro.xml"
+    },
+    {
+        "merged": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-mergeDebugResources-51:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-main-54:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-mergeDebugResources-51:\\layout\\activity_main4.xml",
+        "source": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-main-54:\\layout\\activity_main4.xml"
+    }
+]

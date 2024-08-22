@@ -1,0 +1,214 @@
+[
+    {
+        "merged": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-debug-52:\\drawable_rounder_corner.xml.flat",
+        "source": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-main-54:\\drawable\\rounder_corner.xml"
+    },
+    {
+        "merged": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-debug-52:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-main-54:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.proyectof1.app-debug-52:/raw_tu_video.mp4.flat",
+        "source": "com.example.proyectof1.app-main-54:/raw/tu_video.mp4"
+    },
+    {
+        "merged": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-debug-52:\\drawable_tiktok.png.flat",
+        "source": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-main-54:\\drawable\\tiktok.png"
+    },
+    {
+        "merged": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-debug-52:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-main-54:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-debug-52:\\layout_activity_main_registro.xml.flat",
+        "source": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-main-54:\\layout\\activity_main_registro.xml"
+    },
+    {
+        "merged": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-debug-52:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-main-54:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-debug-52:\\mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-main-54:\\mipmap-anydpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-debug-52:\\drawable_tremendoperrito.png.flat",
+        "source": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-main-54:\\drawable\\tremendoperrito.png"
+    },
+    {
+        "merged": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-debug-52:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-main-54:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-debug-52:\\layout_activity_main_activitytutoriales.xml.flat",
+        "source": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-main-54:\\layout\\activity_main_activitytutoriales.xml"
+    },
+    {
+        "merged": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-debug-52:\\layout_item_dog.xml.flat",
+        "source": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-main-54:\\layout\\item_dog.xml"
+    },
+    {
+        "merged": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-debug-52:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-main-54:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-debug-52:\\raw_alert_sound.mp3.flat",
+        "source": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-main-54:\\raw\\alert_sound.mp3"
+    },
+    {
+        "merged": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-debug-52:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-main-54:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-debug-52:\\drawable_bg_view.xml.flat",
+        "source": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-main-54:\\drawable\\bg_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-debug-52:\\layout_item_articulo.xml.flat",
+        "source": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-main-54:\\layout\\item_articulo.xml"
+    },
+    {
+        "merged": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-debug-52:\\layout_activity_main7.xml.flat",
+        "source": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-main-54:\\layout\\activity_main7.xml"
+    },
+    {
+        "merged": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-debug-52:\\drawable_ic_home.xml.flat",
+        "source": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-main-54:\\drawable\\ic_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-debug-52:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-main-54:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-debug-52:\\drawable_instagram.png.flat",
+        "source": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-main-54:\\drawable\\instagram.png"
+    },
+    {
+        "merged": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-debug-52:\\layout_item_rv_productos.xml.flat",
+        "source": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-main-54:\\layout\\item_rv_productos.xml"
+    },
+    {
+        "merged": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-debug-52:\\layout_activity_carro_compras.xml.flat",
+        "source": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-main-54:\\layout\\activity_carro_compras.xml"
+    },
+    {
+        "merged": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-debug-52:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-main-54:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-debug-52:\\layout_activity_main4.xml.flat",
+        "source": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-main-54:\\layout\\activity_main4.xml"
+    },
+    {
+        "merged": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-debug-52:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-main-54:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-debug-52:\\layout_activity_main_activitycamara.xml.flat",
+        "source": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-main-54:\\layout\\activity_main_activitycamara.xml"
+    },
+    {
+        "merged": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-debug-52:\\drawable_facebook.png.flat",
+        "source": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-main-54:\\drawable\\facebook.png"
+    },
+    {
+        "merged": "com.example.proyectof1.app-debug-52:/layout_activity_main_activitytutoriales.xml.flat",
+        "source": "com.example.proyectof1.app-main-54:/layout/activity_main_activitytutoriales.xml"
+    },
+    {
+        "merged": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-debug-52:\\layout_fragment_primer.xml.flat",
+        "source": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-main-54:\\layout\\fragment_primer.xml"
+    },
+    {
+        "merged": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-debug-52:\\layout_activity_main6.xml.flat",
+        "source": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-main-54:\\layout\\activity_main6.xml"
+    },
+    {
+        "merged": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-debug-52:\\layout_activity_main_activitycreacion.xml.flat",
+        "source": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-main-54:\\layout\\activity_main_activitycreacion.xml"
+    },
+    {
+        "merged": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-debug-52:\\layout_activity_main_activitylocali.xml.flat",
+        "source": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-main-54:\\layout\\activity_main_activitylocali.xml"
+    },
+    {
+        "merged": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-debug-52:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-main-54:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-debug-52:\\layout_fragment_tercer.xml.flat",
+        "source": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-main-54:\\layout\\fragment_tercer.xml"
+    },
+    {
+        "merged": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-debug-52:\\layout_activity_main3.xml.flat",
+        "source": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-main-54:\\layout\\activity_main3.xml"
+    },
+    {
+        "merged": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-debug-52:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-main-54:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-debug-52:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-main-54:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-debug-52:\\layout_item_rv_carro_compras.xml.flat",
+        "source": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-main-54:\\layout\\item_rv_carro_compras.xml"
+    },
+    {
+        "merged": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-debug-52:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-main-54:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-debug-52:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-main-54:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-debug-52:\\layout_fragment_segundo.xml.flat",
+        "source": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-main-54:\\layout\\fragment_segundo.xml"
+    },
+    {
+        "merged": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-debug-52:\\layout_activity_main5.xml.flat",
+        "source": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-main-54:\\layout\\activity_main5.xml"
+    },
+    {
+        "merged": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-debug-52:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-main-54:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-debug-52:\\drawable_login_background.xml.flat",
+        "source": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-main-54:\\drawable\\login_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-debug-52:\\layout_activity_main_activitybuscmod.xml.flat",
+        "source": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-main-54:\\layout\\activity_main_activitybuscmod.xml"
+    },
+    {
+        "merged": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-debug-52:\\menu_navegation_menu.xml.flat",
+        "source": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-main-54:\\menu\\navegation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-debug-52:\\mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-main-54:\\mipmap-anydpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.proyectof1.app-debug-52:/layout_activity_main2.xml.flat",
+        "source": "com.example.proyectof1.app-main-54:/layout/activity_main2.xml"
+    },
+    {
+        "merged": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-debug-52:\\drawable_perritoperfil.jpg.flat",
+        "source": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-main-54:\\drawable\\perritoperfil.jpg"
+    },
+    {
+        "merged": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-debug-52:\\layout_activity_main2.xml.flat",
+        "source": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-main-54:\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-debug-52:\\layout_card_layout.xml.flat",
+        "source": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-main-54:\\layout\\card_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-debug-52:\\drawable_wawacon.png.flat",
+        "source": "C:\\Users\\drago\\.gradle\\daemon\\8.6\\com.example.proyectof1.app-main-54:\\drawable\\wawacon.png"
+    }
+]

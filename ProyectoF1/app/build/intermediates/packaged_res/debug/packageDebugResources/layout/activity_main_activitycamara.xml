@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/login_background"
+    tools:context=".MainActivitycamara">
+
+    <View
+        android:id="@+id/top_view"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:background="@drawable/bg_view"
+        />
+    <GridLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="24dp"
+        android:layout_marginRight="25dp"
+        android:layout_below="@+id/top_view">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Sensor"
+                android:textColor="@color/white"
+                android:textColorHint="@color/white"
+                android:textSize="20sp"
+                android:textAlignment="center"
+                android:background="@drawable/rounder_corner"
+                android:inputType="text"
+                android:id="@+id/sensor_input"
+                android:layout_marginTop="16dp"
+                android:padding="16dp"
+                />
+
+            <Button
+                android:id="@+id/btn_abrircamara"
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:text="Abrir Camara"
+                android:layout_marginTop="24dp"
+                android:layout_marginLeft="25dp"
+                android:backgroundTint="@color/white"
+                android:layout_marginRight="25dp"
+                android:textColor="#3B84F1"
+                android:paddingLeft="60dp"
+                android:paddingRight="60dp"
+                android:textSize="20sp"/>
+            <Button
+                android:id="@+id/btn_regresarmenu"
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:text="Salir"
+                android:layout_marginTop="24dp"
+                android:layout_marginLeft="25dp"
+                android:layout_marginRight="25dp"
+                android:backgroundTint="@color/white"
+                android:textColor="#3B84F1"
+                android:paddingLeft="60dp"
+                android:paddingRight="60dp"
+                android:textSize="20sp"/>
+
+
+        </LinearLayout>
+
+
+
+    </GridLayout>
+    <ImageView
+        android:layout_width="160dp"
+        android:layout_height="160dp"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/tremendoperrito"
+        android:layout_marginTop="30dp"/>
+    />
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sensores y Camara"
+        android:textColor="@color/white"
+        android:textSize="36sp"
+        android:textStyle="bold"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="1dp"/>
+</RelativeLayout>
+
+
+
+
